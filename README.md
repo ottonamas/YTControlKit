@@ -1,11 +1,12 @@
-# YTControlKit
-![YT Keyboard Shortcuts](https://github.com/ottonamas/YTControlKit/blob/main/hkeys.jpg)<br/>
+# YTControlKit Image Concept
 [Control YT video using keyboard shortcuts](https://youtu.be/JmOr2gvKSV4)
+![YT Keyboard Shortcuts](https://github.com/ottonamas/YTControlKit/blob/main/hkeys.jpg)<br/>
 
 # How to Install Extensions on Chrome Browser with MAC.
 https://user-images.githubusercontent.com/75145214/120252013-e330eb80-c248-11eb-94bc-a63266e22f91.mp4
 
-[Download zip file](https://github.com/ottonamas/YTControlKit/blob/main/VideoKeyControlsDist.zip) | [Discord](https://discord.gg/Nf62VyMfsn) | [@NamasOtto](https://twitter.com/NamasOtto)
+[Download zip file](https://github.com/ottonamas/YTControlKit/blob/main/VideoKeyControlsDist.zip)<br/>
+[Discord](https://discord.gg/Nf62VyMfsn) | [@NamasOtto](https://twitter.com/NamasOtto)
 
 ### Subtitles for Manually Installing Extensions.
 Unpacked extensions are often made available as a zip file. 
