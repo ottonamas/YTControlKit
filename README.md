@@ -5,7 +5,7 @@
 # How to Install Extensions on Chrome Browser with MAC.
 https://user-images.githubusercontent.com/75145214/120252013-e330eb80-c248-11eb-94bc-a63266e22f91.mp4
 
-Zip file: https://github.com/ottonamas/YTControlKit/blob/main/VideoKeyControlsDist.zip 
+[Download zip file](https://github.com/ottonamas/YTControlKit/blob/main/VideoKeyControlsDist.zip)<br/>
 Discord: https://discord.gg/Nf62VyMfsn
 @NamasOtto | https://twitter.com/NamasOtto
 
