@@ -1,5 +1,5 @@
 # YTControlKit
-https://github.com/ottonamas/YTControlKit/blob/main/hkeys.jpg
+![alt text](https://github.com/ottonamas/YTControlKit/blob/main/hkeys.jpg)
 [Control YT video using keyboard shortcuts](https://youtu.be/JmOr2gvKSV4)
 
 # How to Install Extensions on Chrome Browser with MAC.
