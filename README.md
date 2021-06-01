@@ -1,4 +1,4 @@
-# YTControlKit Image Concept
+# YTControlKit Active Keys Image 
 [Control YT video using keyboard shortcuts](https://youtu.be/JmOr2gvKSV4)
 ![YT Keyboard Shortcuts](https://github.com/ottonamas/YTControlKit/blob/main/hkeys.jpg)<br/>
 
